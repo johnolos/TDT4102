@@ -1,0 +1,9 @@
+Character statistics:
+Total number of characters: 1437
+a:108		b:17		c:23		d:46		
+e:154		f:17		g:20		h:49		
+i:71		j:8		k:6		l:44		
+m:28		n:98		o:82		p:25		
+q:3		r:78		s:90		t:89		
+u:33		v:9		w:16		x:1		
+y:21		z:1		
